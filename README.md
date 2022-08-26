@@ -44,11 +44,11 @@ Topics you should know in System Design -
 
 ------------------------------
 
-What are we going to cover?
+**What are we going to cover?**
 
 We will be designing large systems and studying the research papers along with that will be brainstorming the pros and cons of each system design techniques. To make it more objective, I'll try to make it as esoteric as possible with diagrams.
 
-Case study questions will be ( ML System Design Questions will be shared later)-
+**Case study questions will be ( ML System Design Questions will be shared later)-**
 
 Design Dropbox or Google Drive
 
