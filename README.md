@@ -350,6 +350,8 @@ Design a picture sharing website.
 
 # Some of the other best Series-
 
+[Complete System Design Case Studies Series](https://medium.com/coders-mojo/day-1-of-system-design-case-studies-series-b3c3fecae079?sk=ee7333918f135e06eb3a9b9434d35696)
+
 [Complete 60 Days of Data Science and Machine Learning Series ](https://medium.com/coders-mojo/day-1-day-60-quick-recap-of-60-days-of-data-science-and-ml-6fc021643d1?sk=4e75e043b7630a9f963562ebac94e129)
 
 [30 days of Machine Learning Ops](https://medium.com/coders-mojo/day-1-of-30-days-of-machine-learning-ops-7c299e4b09be?sk=4ab48350a5c359fc157109e48b1d738f)
