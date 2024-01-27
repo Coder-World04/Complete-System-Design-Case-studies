@@ -3,6 +3,7 @@ Complete System Design Case Studies
 
 ![0_5b84zQYh84nzJtNm](https://user-images.githubusercontent.com/104568275/186878684-d08f25e3-8c1f-4f85-a7ce-9f9685aa9641.png)
 
+Youtube for all the implemented projects and tech interview resources - [Ignito Youtube Channel](https://www.youtube.com/@ignito5917/about)
 
 ---
 
